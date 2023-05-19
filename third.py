@@ -1,1 +1,2 @@
+import something
 print('goodbye')
